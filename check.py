@@ -98,3 +98,32 @@ def check_is_even(number):
         return True
     else:
         return False
+
+
+def print_age(age):
+    print(age)
+
+def print_banana(f):
+    print(f)
+
+
+def check_k_character(g):
+    if g=="k":
+        return True
+    else:
+        return False
+
+def check_oo_character(g):
+    if g=="oo":
+        return True
+    else:
+        return False
+    
+    
+    
+def check_b_character(g):
+    if g=="b":
+        return True
+    else:
+        return False
+    
