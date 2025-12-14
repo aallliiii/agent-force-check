@@ -106,6 +106,12 @@ def print_age(age):
 def print_banana(f):
     print(f)
 
+def print_age(age):
+    print(age)
+
+def print_banana(f):
+    print(f)
+
 
 def check_k_character(g):
     if g=="k":
