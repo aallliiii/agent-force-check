@@ -92,7 +92,13 @@ def check_k_character(g):
         return True
     else:
         return False
-    
+
+def check_k_character(g):
+    if g=="k":
+        return True
+    else:
+        return False
+        
 def check_is_even(number):
     if number %2==0:
         return True
