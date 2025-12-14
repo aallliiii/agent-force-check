@@ -19,3 +19,4 @@ def calculator ():
 result = calculator()
 print("Result:", result)
 print("Calculation complete.")
+print("Thank you for using the calculator.")
